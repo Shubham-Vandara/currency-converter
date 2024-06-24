@@ -39,3 +39,7 @@ For example, if you want to convert 100 USD to INR:
 5. The result will display as `100 USD = [converted amount] INR`.
 
 This project provides a simple yet effective way for users to perform currency conversions with up-to-date rates, making it a valuable tool for travelers, businesses, and anyone dealing with multiple currencies.
+
+---
+
+[Visit Currency Converter](https://shubham-vandara.github.io/Currency-Converter/)
