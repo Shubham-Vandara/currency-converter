@@ -40,6 +40,6 @@ For example, if you want to convert 100 USD to INR:
 
 This project provides a simple yet effective way for users to perform currency conversions with up-to-date rates, making it a valuable tool for travelers, businesses, and anyone dealing with multiple currencies.
 
----
+## Project Link
 
-[Visit Currency Converter](https://shubham-vandara.github.io/Currency-Converter/)
+[Visit Currency Converter](https://shubham-vandara.github.io/currency-converter/)
